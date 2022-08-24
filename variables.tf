@@ -1,4 +1,4 @@
-variable "ladscape" {
+variable "landscape" {
   default = null
   description = "returs the data relavat to the target ladscape "
   type = string
