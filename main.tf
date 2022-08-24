@@ -1,7 +1,7 @@
 module "cliet-cotext" {
   source = "github.com/satya679/cotext"
 
-  ladscape = var.ladscape
+  landscape = var.landscape
   environment = var.environment
   region = var.region
 }
