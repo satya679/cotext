@@ -1,4 +1,4 @@
-module "cliet-cotext" {
+module "client-context" {
   source = "github.com/satya679/cotext"
 
   landscape = var.landscape
